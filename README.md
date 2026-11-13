@@ -1,53 +1,86 @@
-# Hello, and welcome!
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-A full stack developer profile focused on building web applications, developer tools, and practical open source projects.
 
-## Technology Stack
+<p>Welcome to my page! </br> I'm [Your Name], Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>[Your City], [Your Country]</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>[Your Current City], [Your Current Country]</b>. </p>
+<h3>Things I code with</h3>
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
+  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
+<h3>Open source projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/your-username/your-repo-1"><b>Project One Name</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/your-username/your-repo-1?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/your-username/your-repo-1?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/your-username/your-repo-1?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/your-username/your-repo-1?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/your-username/your-repo-2"><b>Project Two Name</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/your-username/your-repo-2?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/your-username/your-repo-2?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/your-username/your-repo-2?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/your-username/your-repo-2?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/your-username/your-repo-3"><b>Project Three Name</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/your-username/your-repo-3?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/your-username/your-repo-3?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/your-username/your-repo-3?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/your-username/your-repo-3?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+<h3>My latest posts</h3>
+<ul>
+  <li><a href="https://medium.com"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Your First Article Title</b></a><br/><i>Short description of your article goes here...</i></li>
+  <li><a href="https://medium.com"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Your Second Article Title</b></a><br/><i>Short description of your article goes here...</i></li>
+    <li><a href="https://medium.com"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Your Third Article Title</b></a><br/><i>Short description of your article goes here...</i></li>
+  <li><a href="https://medium.com"><b>Your Fourth Article Title</b></a><br/><i>Short description of your article goes here...</i></li>
+  <li><a href="https://medium.com"><b>Your Fifth Article Title</b></a><br/><i>Short description of your article goes here...</i></li>
+  <li><a href="https://medium.com"><b>Your Sixth Article Title</b></a><br/><i>Short description of your article goes here...</i></li>
+</ul>
+<h3>Välkommen till <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> Stockholm!</h3>
+<p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
+<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @your-instagram!</a><br/>Currently, the weather is: <b> 4°C, <i>clear sky</i></b></br>Today, the sun rises at <b>06:39</b> and sets at <b>17:20</b>.</p>
+<h3>Where to find me</h3>
+<p><a href="https://github.com/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
 
-### Frontend
-- React
-- Angular
-- TypeScript
-- HTML5
-- Redux
-- RxJS
-- Sass
-- Styled Components
-- D3.js
-
-### Backend & APIs
-- Node.js
-- NestJS
-- GraphQL
-- Apollo
-
-### Tooling & Platforms
-- Git
-- npm
-- Webpack
-- Rollup
-- Docker
-- GitHub Actions
-- Google Cloud Platform
-- Heroku
-- Insomnia
-- Prettier
-- Brave Browser
-
-## Project Areas
-
-- **React Pull to Refresh Component** — A reusable pull-to-refresh interaction for React applications.
-- **Browser Extension Starter** — A foundation for building browser extensions with React and TypeScript.
-- **TypeScript GraphQL API Starter** — A starter architecture for Node.js, Express, Apollo, and GraphQL services.
-
-## Topics of Interest
-
-- Building Ethereum smart contracts with Remix
-- Structuring scalable React applications
-- Automating repository documentation with CI workflows
-- Getting side projects off to a solid start
-- Modern JavaScript language features
-
----
-
-Thanks for stopping by. Explore the projects and technologies above to learn more about the work represented here.
+------------
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 3 March, 07:01 CET<br /><a href="https://github.com">Create your own here!</a></p>
+<p align="center"><img src="https://github.com/your-username/your-repo/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/your-username/your-repo?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/your-username/your-repo?style=flat-square&labelColor=343b41"/></p>
